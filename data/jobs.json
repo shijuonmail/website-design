@@ -1,0 +1,230 @@
+[
+
+    {   
+        "id": 101,
+
+        "company":"Amazon",
+
+        "title":"Junior Software Engineer",
+
+        "category":"Full time",
+
+        "type":"Contract",
+
+        "location":"Dublin, Ireland",
+
+        "details": "6-12 months of experience with strong JAVA skills",
+
+        "salary" :"34000",
+
+        "about-company":" The company is an information and analytics company specialising in medical content, with 20 years of experience. They provide access to full-text articles from peer-reviewed journals to support health practitioners around the world. The core team is based in Paris, France and we are currently expanding the engineering team in Ireland.",
+
+        "description" : "The core of the system is written in Perl but we are in the process of modernising it over the next couple of months. So in addition to all the development work, you will also be actively involved in many architectural and design decisions."
+
+
+    },
+
+    {   
+        "id": 102,
+        
+        "company":"Optum",
+
+        "title":"Software Tester",
+
+        "category":"Full time",
+
+        "type":"Permenant",
+
+        "location":"Dublin, Ireland",
+
+        "details": "6 years plus software engineer with strong .NET skills",
+
+        "salary":"£50000",
+
+        "about-company":  "We are leading digital transformation partner with many companies. We specialise in delivering innovative solutions to the Financial Services and Hi-Tech sectors." ,
+        
+        "description" : "We are looking for talented individuals to join our fun and innovative team. This is a fantastic opportunity for new and experienced developers to learn a set of world class development practices on the Salesforce.com platform."
+
+    },
+
+    {
+        "id": 103,
+        
+        "company" : "Facebook",
+
+        "title":"Sr. Software Engineer",
+
+        "category":"Full time",
+
+        "type":"Contract",
+
+        "location":"Dublin, Ireland",
+
+        "details": "8 years plus software engineer with strong JAVA skills",
+
+        "salary" :"65000 ",
+
+        "about-company": " Facebook (stylized as facebook) is an American online social media and social networking service owned by Facebook, Inc." ,
+
+        "description" :"Maintain and improve the existing application Lead the design and implementation of new functionalityCollaboration – working closely with colleagues across the wider business to continually improve the products"
+
+    },
+
+    {
+        "id": 104,
+        
+        "company":"Mastercard",
+
+        "title":"Associate Tester",
+
+        "category":"Part time",
+
+        "type":"Contract",
+
+        "location":"Cork, Ireland",
+
+        "details": "1 years plus software engineer with strong .NET skills",
+
+        "salary" :"25000 ",
+
+        "about-company":"We work to connect and power an inclusive digital economy that benefits everyone, everywhere. Our secure networks, partnerships, solutions and innovations make transactions safe, simple and smart – and help everyone realise their greatest potential.",
+
+        "description" :"The mission of the testing team is to protect Fidelity's assets and our customers’ livelihoods from the threat of exploitation by malicious adversaries."
+
+    },
+    {  
+        "id": 105,
+         
+        "company":"Fidelity Investments",
+
+        "title":"Software Engineer",
+
+        "category":"Part time",
+
+        "type":"Contract",
+
+        "location":"Athlone, Ireland",
+
+        "details": "4 years of experience in Html,CSS, Javascript programing",
+
+        "salary" :"40000",
+
+        "about-company": "Our dedicated financial planning and investment teams work closely with individuals, families and their advisers, providing them with innovative products and services.",
+
+        "description" : "This company is seeking an exceptionally talented full stack JavaScript senior software developer with experience in Html,CSS technologies looking for an opportunity to grow and succeed on a global stage."
+
+    },
+    {  
+        "id": 106,
+         
+        "company":"Deloitte Technology",
+
+        "title":"Software Tester",
+
+        "category":"Full time",
+
+        "type":"Permanant",
+
+        "location":"Limerick, Ireland",
+
+        "details": " 5 years of experience in Software Testing ",
+
+        "salary" :"50000",
+
+        "about-company": "We are a leading provider of technology and software testing, specialising in application, infrastructure and engineering services. ",
+
+        "description" : "We have an exciting career opportunity for a software Tester within the Systems Engineering practice. This initial assignment will be based in Dublin working with one of our clients alongside a Release Management team and wider development teams."
+
+    },
+    {   
+        "id": 107,
+        
+        "company":"Bluefin",
+
+        "title":"Senior Software Developer",
+
+        "category":"Full time",
+
+        "type":"Permanant",
+
+        "location":"Waterford, Ireland",
+
+        "details": "12 years of experience with strong JAVA skills",
+
+        "salary" :"60000",
+
+        "about-company": " We builds common business tools in unconventional ways so more people can start, run, and grow their businesses.",
+
+        "description" : " We are looking for a Senior Software Developer to join the team in Waterford, Ireland. The ideal candidate is an experience Developer who will help to build Payments and Security focused SaaS applications for our omni-channel security suite."
+
+    },
+    {   
+        "id": 108,
+        
+        "company":"Sogiti",
+
+        "title":"Junior Networking Engineer",
+
+        "category":"Part time",
+
+        "type":"Contract",
+
+        "location":"Dublin, Ireland",
+
+        "details": "6-12 months of experience in Networking Knowledge",
+
+        "salary" :"22000",
+
+        "about-company": " We are an industry leader in cognitive cloud networking solutions for large data center and campus environments.",
+
+        "description" : "Working experience of network hardware (routers, switches) architectures, including backplane and ASIC functionality and distributed architectures."
+
+        
+
+    },
+    { 
+        "id": 109,
+          
+        "company":"Adobe",
+
+        "title":"Technical Support Engineer",
+
+        "category":"Full time",
+
+        "type":"Permanant",
+
+        "location":"Dublin, Ireland",
+
+        "details": "5 years of experience with strong JAVA skills",
+
+        "salary" :"40000",
+
+        "about-company": "Changing the world through digital experiences is what Adobe’s all about.",
+
+        "description" : "Experience in JavaScript, jQuery, HTML and CSS and SQL."
+    
+    },
+    {   
+        "id": 110,
+        
+        "company":"Google",
+
+        "title":"DataBase Engineer",
+
+        "category":"Full time",
+
+        "type":"Permanant",
+
+        "location":"Dublin, Ireland",
+
+        "details": "More than 5 years of experience in various Database servers",
+
+        "salary" :"45000",
+
+        "about-company": " Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware. ",
+
+        "description" : "Experience in database design and other data storage solutions."
+
+    }
+
+]
